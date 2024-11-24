@@ -1,0 +1,51 @@
+.App{
+    text-align: center;
+}
+
+.header{
+    font-weight: 500;
+    font-size: larger;
+    border:2px solid;
+    background-color: #8E0625;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0px 3px 3px rgb(16, 122, 60);
+}
+
+
+.formHeader{
+    margin-left: 12px;
+}
+
+.add-Contact{
+    font-size: initial;
+    font-weight: 500;
+    font-family: fantasy;
+    margin-left: 12px;
+    font-size: 24px;
+}
+
+.contacts{
+    display:flex;
+    justify-content: space-between;
+    border:2px solid;
+    background: #FDEFF2;
+    margin-bottom: 2px;
+    margin-left: 12px;
+    margin-right: 5px;
+    
+}
+
+.email{
+    font-size: x-small;
+}
+
+.btn
+{
+    background-color: rgb(55, 117, 119);
+    color: white;
+    font-weight: bold;
+    padding: 2px 6px;
+}

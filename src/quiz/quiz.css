@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    margin:10px 0;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #f4f4f4;
+    width: 700px;
+}
+
+.selected{
+    background-color: #b3e5fc;
+}
+
+.button{
+    background-color: #0dbc72;
+    border-radius: 20px;
+    width: 20%;
+}
+
+.button-disable{
+    border-radius: 20px;
+    width: 20%;
+}
